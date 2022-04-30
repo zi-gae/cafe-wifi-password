@@ -6,6 +6,7 @@
 
 |   카페명    |  와이파이 명   |  비밀번호  |             소재지             |
 | :---------: | :------------: | :--------: | :----------------------------: |
+|   카페기억   |    KT_GIGA_2G_WAVE2_4F85, KT_GIGA_5G_WAVE2_4F85   |  6ca37dh78 | 종로구 율곡로 102  |
 |   책그리고    |    booksand-5g, booksand   |  booksand1! | 서초구 방배천로 132 |
 |   카페온더플랜 건대점    |    ontheplan up, 5G ontheplan down, 5G   |  ontheplan1 | 광진구 능동로 161 |
 |   커피나무 건대입구역점   |    COFFEENAMU3 5G   |  coffeenamu3  | 광진구 동일로22길 117-26 |
